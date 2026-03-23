@@ -1,88 +1,58 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=carlos-coronel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer&descAlignY=55&descSize=18)
+# carlos-coronel
+
+<img src="https://img.shields.io/github/followers/carlos-coronel?style=flat-square&logo=github" alt="Followers" /> <img src="https://komarev.com/ghpvc/?username=carlos-coronel&style=flat-square" alt="Profile Views" />
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python) [![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/topics/javascript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/topics/typescript) [![PHP](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)](https://github.com/topics/php) 
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=carlos-coronel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=carlos-coronel&show_icons=true&theme=flat&hide_border=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=carlos-coronel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="carlos-coronel's GitHub stats" height="180em" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-coronel&layout=compact&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-coronel&layout=compact&theme=flat&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-coronel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180em" /></picture>
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome%20to%20my%20GitHub%20Profile!;Main%20skills%3A%20Python%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20PHP)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=carlos-coronel&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=carlos-coronel&theme=flat&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-coronel&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></picture>
 
 </div>
 
-## 💫 About Me
-
-```javascript
-const developer = {
-  name: "carlos-coronel",
-  languages: ["Python", "JavaScript", "TypeScript", "PHP"],
-  followers: 1,
-  publicRepos: 6,
-};
-```
-
-## 🎯 Skills & Technologies
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| Languages | [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://github.com/topics/python) [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://github.com/topics/javascript) [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://github.com/topics/typescript) [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](https://github.com/topics/php) |
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=carlos-coronel&repo=Malla_Curricular&theme=tokyonight&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=carlos-coronel&repo=Malla_Curricular&theme=flat&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-coronel&repo=Malla_Curricular&theme=tokyonight&hide_border=true" alt="Malla_Curricular" /></picture>](https://github.com/carlos-coronel/Malla_Curricular)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🤝 Let's Connect
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carlos-coronel&theme=tokyonight&no-frame=true&row=1&column=7)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlos-coronel)
 
 </div>
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-<div align="center">
-<table>
-<tr>
-<td>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=carlos-coronel&theme=tokyo-night&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=carlos-coronel&theme=github&hide_border=true"><img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-coronel&theme=tokyo-night&hide_border=true" alt="Activity Graph" /></picture>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=carlos-coronel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</td>
-<td>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlos-coronel&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
-</div>
-
-## 🌟 Featured Repositories
+---
 
 <div align="center">
 
-[![Carlos-Coronel](https://github-readme-stats.vercel.app/api/pin/?username=carlos-coronel&repo=Carlos-Coronel&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/carlos-coronel/Carlos-Coronel)
-[![TabFlo](https://github-readme-stats.vercel.app/api/pin/?username=carlos-coronel&repo=TabFlo&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/carlos-coronel/TabFlo)
-[![yoelijoayudar](https://github-readme-stats.vercel.app/api/pin/?username=carlos-coronel&repo=yoelijoayudar&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/carlos-coronel/yoelijoayudar)
-[![FoliadoAcademico](https://github-readme-stats.vercel.app/api/pin/?username=carlos-coronel&repo=FoliadoAcademico&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/carlos-coronel/FoliadoAcademico)
+*⭐ From [carlos-coronel](https://github.com/carlos-coronel) with ❤️*
 
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/carlos-coronel/carlos-coronel/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/carlos-coronel)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
