@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 carlos-coronel
+# carlos-coronel
 
 ![Followers](https://img.shields.io/github/followers/carlos-coronel?style=flat-square&logo=github) ![Profile Views](https://komarev.com/ghpvc/?username=carlos-coronel&style=flat-square)
 
@@ -42,7 +42,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlos-coronel)
-[![email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=email&logoColor=white)](mailto:cjcoronelr@fctunca.edu.py)
 
 </div>
 
