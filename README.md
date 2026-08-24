@@ -1,6 +1,10 @@
 <div align="center">
 
-# Carlos-Coronel
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Carlos-Coronel" src="assets/header-dark.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
@@ -10,14 +14,27 @@
 
 </div>
 
-## 🛠️ Tech stack
+## 💫 About me
 
-- JavaScript — 28.6%
-- TypeScript — 28.6%
-- Python — 28.6%
-- PHP — 14.3%
+```javascript
+const developer = {
+  name: "Carlos-Coronel",
+  location: "Earth",
+  languages: ["JavaScript","TypeScript","Python","PHP"],
+  followers: 1,
+  publicRepos: 9
+};
+```
 
-## 📊 GitHub analytics
+## 🏆 GitHub trophies
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg">
+  <img alt="GitHub trophies" src="assets/trophies-dark.svg">
+</picture>
+
+## 📊 GitHub stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
@@ -26,24 +43,12 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
-  <img alt="Top languages" src="assets/languages-dark.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg">
   <img alt="Contribution streak" src="assets/streak-dark.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
-  <img alt="Contribution activity" src="assets/contributions-dark.svg">
-</picture>
-
-## 🚀 Featured projects
+## 🌟 Featured repositories
 
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg">
@@ -69,6 +74,12 @@
   <img alt="GitMorphosis" src="assets/project-4-dark.svg">
 </picture>](https://github.com/Carlos-Coronel/GitMorphosis)
 
-## 🤝 Let's connect
+## 🌐 Connect
 
 [GitHub](https://github.com/Carlos-Coronel)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img alt="Footer" src="assets/footer-dark.svg">
+</picture>
