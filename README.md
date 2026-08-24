@@ -1,40 +1,21 @@
-<div align="center">
+```text
+$ whoami
+Carlos-Coronel
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Carlos-Coronel" src="assets/header-dark.svg">
-</picture>
+$ cat profile.txt
+Developer
+Location: Unknown
+Public repos: 9
+Followers: 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Technology stack" src="assets/stack-dark.svg">
-</picture>
-
-</div>
-
-## 💫 About me
-
-```javascript
-const developer = {
-  name: "Carlos-Coronel",
-  location: "Earth",
-  languages: ["JavaScript","TypeScript","Python","PHP"],
-  followers: 1,
-  publicRepos: 9
-};
+$ ls skills/
+JavaScript      ███░░░░░░░ 28.6%
+TypeScript      ███░░░░░░░ 28.6%
+Python          ███░░░░░░░ 28.6%
+PHP             ██░░░░░░░░ 14.3%
 ```
 
-## 🏆 GitHub trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg">
-  <img alt="GitHub trophies" src="assets/trophies-dark.svg">
-</picture>
-
-## 📊 GitHub stats
+## System metrics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
@@ -43,43 +24,36 @@ const developer = {
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg">
-  <img alt="Contribution streak" src="assets/streak-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+  <img alt="Top languages" src="assets/languages-dark.svg">
 </picture>
 
-## 🌟 Featured repositories
+## Repositories
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-1-light.svg">
-  <img alt="TaskClase" src="assets/project-1-dark.svg">
-</picture>](https://github.com/Carlos-Coronel/TaskClase)
+### [TaskClase](https://github.com/Carlos-Coronel/TaskClase)
+Proyecto destacado
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-2-light.svg">
-  <img alt="WebSec" src="assets/project-2-dark.svg">
-</picture>](https://github.com/Carlos-Coronel/WebSec)
+⭐ 1 · 🍴 0 · JavaScript
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-3-light.svg">
-  <img alt="Carlos-Coronel" src="assets/project-3-dark.svg">
-</picture>](https://github.com/Carlos-Coronel/Carlos-Coronel)
+### [WebSec](https://github.com/Carlos-Coronel/WebSec)
+Este proyecto proporciona un entorno de laboratorio seguro, aislado y reproducible para la práctica de auditoría web y vulnerabilidades del OWASP Top 10
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-4-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-4-light.svg">
-  <img alt="GitMorphosis" src="assets/project-4-dark.svg">
-</picture>](https://github.com/Carlos-Coronel/GitMorphosis)
+⭐ 0 · 🍴 0
 
-## 🌐 Connect
+### [Carlos-Coronel](https://github.com/Carlos-Coronel/Carlos-Coronel)
+Proyecto destacado
 
+⭐ 0 · 🍴 0
+
+### [GitMorphosis](https://github.com/Carlos-Coronel/GitMorphosis)
+Proyecto destacado
+
+⭐ 0 · 🍴 0 · TypeScript
+
+```text
+$ cat social-links.txt
 [GitHub](https://github.com/Carlos-Coronel)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="Footer" src="assets/footer-dark.svg">
-</picture>
+$ echo "Thanks for visiting!"
+```
