@@ -1,87 +1,47 @@
-<div align="center">
+# Hi, I'm Carlos-Coronel 👋
+
+## GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Carlos-Coronel" src="assets/header-dark.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Technology stack" src="assets/stack-dark.svg">
-</picture>
-
-</div>
-
-## 💫 About me
-
-```javascript
-const developer = {
-  name: "Carlos-Coronel",
-  location: null,
-  languages: ["JavaScript","TypeScript","Python","PHP"],
-  followers: 1,
-  publicRepos: 9
-};
-```
-
-## 🏆 GitHub trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg">
-  <img alt="GitHub trophies" src="assets/trophies-dark.svg">
-</picture>
-
-## 📊 GitHub stats
-
-<picture>
+  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="assets/stats-mobile-dark.svg">
+  <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="assets/stats-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
   <img alt="GitHub stats" src="assets/stats-dark.svg">
 </picture>
 
-## 🌟 Featured repositories
+## Top languages
 
-<a href="https://github.com/Carlos-Coronel/TaskClase">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-1-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-1-light.svg">
-  <img alt="TaskClase" src="assets/project-1-dark.svg">
+  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="assets/languages-mobile-dark.svg">
+  <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="assets/languages-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+  <img alt="Top languages" src="assets/languages-dark.svg">
 </picture>
-</a>
 
-<a href="https://github.com/Carlos-Coronel/WebSec">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-2-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-2-light.svg">
-  <img alt="WebSec" src="assets/project-2-dark.svg">
-</picture>
-</a>
+## Featured projects
 
-<a href="https://github.com/Carlos-Coronel/Carlos-Coronel">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-3-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-3-light.svg">
-  <img alt="Carlos-Coronel" src="assets/project-3-dark.svg">
-</picture>
-</a>
+### [TaskClase](https://github.com/Carlos-Coronel/TaskClase)
+Proyecto destacado
 
-<a href="https://github.com/Carlos-Coronel/GitMorphosis">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-4-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-4-light.svg">
-  <img alt="GitMorphosis" src="assets/project-4-dark.svg">
-</picture>
-</a>
+⭐ 1 · 🍴 0 · JavaScript
 
-## 🌐 Connect
+### [WebSec](https://github.com/Carlos-Coronel/WebSec)
+Este proyecto proporciona un entorno de laboratorio seguro, aislado y reproducible para la práctica de auditoría web y vulnerabilidades del OWASP Top 10
+
+⭐ 0 · 🍴 0
+
+### [Carlos-Coronel](https://github.com/Carlos-Coronel/Carlos-Coronel)
+Proyecto destacado
+
+⭐ 0 · 🍴 0
+
+### [GitMorphosis](https://github.com/Carlos-Coronel/GitMorphosis)
+Proyecto destacado
+
+⭐ 0 · 🍴 0 · TypeScript
+
+---
 
 [GitHub](https://github.com/Carlos-Coronel)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="Footer" src="assets/footer-dark.svg">
-</picture>
