@@ -1,21 +1,6 @@
-```text
-$ whoami
-Carlos-Coronel
+# Hi, I'm Carlos-Coronel 👋
 
-$ cat profile.txt
-Developer
-Location: Unknown
-Public repos: 9
-Followers: 1
-
-$ ls skills/
-JavaScript      ███░░░░░░░ 28.6%
-TypeScript      ███░░░░░░░ 28.6%
-Python          ███░░░░░░░ 28.6%
-PHP             ██░░░░░░░░ 14.3%
-```
-
-## System metrics
+## GitHub stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
@@ -23,13 +8,15 @@ PHP             ██░░░░░░░░ 14.3%
   <img alt="GitHub stats" src="assets/stats-dark.svg">
 </picture>
 
+## Top languages
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
   <img alt="Top languages" src="assets/languages-dark.svg">
 </picture>
 
-## Repositories
+## Featured projects
 
 ### [TaskClase](https://github.com/Carlos-Coronel/TaskClase)
 Proyecto destacado
@@ -37,7 +24,7 @@ Proyecto destacado
 ⭐ 1 · 🍴 0 · JavaScript
 
 ### [WebSec](https://github.com/Carlos-Coronel/WebSec)
-Este proyecto proporciona un entorno de laboratorio seguro, aislado y reproducible para la práctica de auditoría web y vulnerabilidades del OWASP Top 10
+Este proyecto proporciona un entorno de laboratorio seguro, aislado y reproducible para la práctica de
 
 ⭐ 0 · 🍴 0
 
@@ -51,9 +38,6 @@ Proyecto destacado
 
 ⭐ 0 · 🍴 0 · TypeScript
 
-```text
-$ cat social-links.txt
-[GitHub](https://github.com/Carlos-Coronel)
+---
 
-$ echo "Thanks for visiting!"
-```
+[GitHub](https://github.com/Carlos-Coronel)
