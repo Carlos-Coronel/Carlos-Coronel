@@ -19,7 +19,7 @@
 ```javascript
 const developer = {
   name: "Carlos-Coronel",
-  location: "Earth",
+  location: null,
   languages: ["JavaScript","TypeScript","Python","PHP"],
   followers: 1,
   publicRepos: 9
