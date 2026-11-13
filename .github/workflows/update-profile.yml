@@ -1,0 +1,43 @@
+name: Actualizar perfil
+
+on:
+  schedule:
+    - cron: '20 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - profile.config.json
+      - scripts/update-profile.mjs
+      - .github/workflows/update-profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '24'
+      - name: Validar el generador
+        run: node --test scripts/update-profile.test.mjs
+      - name: Actualizar texto con datos públicos
+        run: node scripts/update-profile.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Guardar el perfil actualizado
+        run: |
+          git add README.md assets/accent.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: actualizar datos públicos del perfil'
+          git push
